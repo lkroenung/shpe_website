@@ -9,8 +9,8 @@ html {
 
 body {
   font: normal 1em 'helvetica', arial, sans-serif;
-  background: #444;
-  color: #444;
+  background: #000000;
+  color: #000000;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   padding-bottom: 20px;
